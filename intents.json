@@ -1,0 +1,15 @@
+{"intents": [
+        {"tag": "is_order",
+         "patterns": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10",   
+                "1 chai", "1 lọ", "1c", "bán", "cho", "cho chị", "cho e", "cho em", "cho mình", "chọn cho",     
+                "chốt", "chốt cho", "chốt đơn", "chốt giúp", "combo", "đặt", "đến", "đến địa chỉ", "giao", "giao cho",     
+                "giao hàng", "gửi", "gửi cho", "hộ", "lấy", "lấy cho", "lấy giúp", "lấy hộ", "lấy thêm", "nhận thêm", "oder", 
+                "order", "sđt", "set", "ship", "ship đến", "ship cho", "ship thêm", "ship về", "thêm", "tới", "về"
+                ]
+        },
+        {
+        "tag": "is_not_order",
+        "patterns": [""]
+        }
+   ]
+}
